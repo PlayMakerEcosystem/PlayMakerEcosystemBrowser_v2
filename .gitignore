@@ -19,7 +19,6 @@ sysinfo.txt
 
 Temp/
 
-/Assets/PlayMaker/
 /Assets/iTween/
 /Assets/Gizmos/
 
@@ -45,3 +44,21 @@ LICENSE\.md
 .idea
 Assets/Plugins/Editor/JetBrains
 JetBrains.meta
+Assets/PlayMaker/Actions
+Assets/PlayMaker/Editor
+Assets/PlayMaker/Resources
+Assets/PlayMaker/Templates
+Assets/PlayMaker/Versions
+Assets/PlayMaker/Actions.meta
+Assets/PlayMaker/ConditionalExpression.dll
+Assets/PlayMaker/ConditionalExpression.dll.meta
+Assets/PlayMaker/Editor.meta
+Assets/PlayMaker/FsmProcessor.cs
+Assets/PlayMaker/FsmProcessor.cs.meta
+Assets/PlayMaker/Readme.txt
+Assets/PlayMaker/Readme.txt.meta
+Assets/PlayMaker/Resources.meta
+Assets/PlayMaker/Templates.meta
+Assets/PlayMaker/UpdateHelper.cs
+Assets/PlayMaker/UpdateHelper.cs.meta
+Assets/PlayMaker/Versions.meta
